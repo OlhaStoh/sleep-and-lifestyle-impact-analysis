@@ -21,6 +21,7 @@ Investigate the relationships between:
 * [Google Colab](https://colab.research.google.com/drive/1e7EoscxcKp_gLGehRkkZ27ww31aOeW0J#scrollTo=DjS_61CpRrZR)
 
 ---
+![Dashboard Preview in Looker Studio](./preview.png)
 
 ## 📈 Analysis Conducted
 
